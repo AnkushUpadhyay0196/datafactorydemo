@@ -1,0 +1,9 @@
+{
+	"name": "au-data-factory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34a9e799-50ae-4810-abde-5917cca08d86",
+		"tenantId": "3f1fd214-27c4-4ab4-af1d-d40f677666c7"
+	}
+}
